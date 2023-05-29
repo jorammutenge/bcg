@@ -1,3 +1,4 @@
+![image](https://github.com/jorammutenge/bcg/assets/100508607/bbb9d792-0329-436d-9cdf-91c8708ad9d1)
 # Boston Consulting Group (BCG) Top 10 most Innovative Companies of 2023
 Boston Consulting Group released it's list of the 50 most innovative companies for the year 2023. For this project, I used the list to pick the top 10 companies and performed a stock analysis so see if innovation for each of the companies was reflective of it's stock performance.
 
